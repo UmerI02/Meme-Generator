@@ -113,7 +113,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Acknowledgments
 
 - Inspired by the meme community and countless internet laughs.
-- Special thanks to **[Imgflip](https://imgflip.com/)** for providing meme templates *(if applicable)*.
+- Special thanks to **[Imgflip](https://imgflip.com/)** for providing meme templates.
 
 ---
 
