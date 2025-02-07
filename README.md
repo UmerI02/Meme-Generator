@@ -14,12 +14,6 @@ A simple and fun Meme Generator built with **React.js**. This application allows
 
 ---
 
-## Demo
-
-Check out the live demo [here](#) *(Add your deployed link if available)*.
-
----
-
 ## Installation
 
 Follow these steps to run the Meme Generator locally:
@@ -70,7 +64,7 @@ Follow these steps to run the Meme Generator locally:
 - **React.js** - Frontend Library
 - **JavaScript (ES6+)** - Programming Language
 - **HTML5 & CSS3** - Markup and Styling
-- **[Meme API](https://imgflip.com/api)** - Source for meme templates *(if applicable)*
+- **[Meme API](https://imgflip.com/api)** - Source for meme templates
 
 ---
 
@@ -125,7 +119,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-Developed by **[Umer Iqbal](https://github.com/UmerI02)**  
+Developed by **[Umer Ibrar](https://github.com/UmerI02)**  
 Feel free to reach out for any questions or feedback!
 
 ---
